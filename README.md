@@ -3,7 +3,7 @@
 This is a simple weather application built using JavaScript, HTML, and CSS. The app fetches real-time weather data for any city using the OpenWeatherMap API. Users can input a city name, and the app will display the current temperature, humidity, and wind speed in that city.
 
 ## Demo
-(Include a link to the live version if it's hosted, e.g., GitHub Pages, Netlify, Vercel)
+(https://akweather-app.netlify.app/)
 
 ### Features
    Search weather data by city name
