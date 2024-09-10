@@ -16,7 +16,7 @@ This is a simple weather application built using JavaScript, HTML, and CSS. The 
    CSS3
    OpenWeatherMap API
 
-## nstallation and Setup Instructions
+## Installation and Setup Instructions
 To run this project locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/your-username/weather-app.git
