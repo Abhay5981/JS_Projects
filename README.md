@@ -5,18 +5,18 @@ This is a simple weather application built using JavaScript, HTML, and CSS. The 
 ## Demo
 (https://akweather-app.netlify.app/)
 
-### Features
+## Features
    Search weather data by city name
    Displays temperature, humidity, and wind speed
    Simple and clean UI
    Uses OpenWeatherMap API for real-time data
-### Technologies Used
+## Technologies Used
    JavaScript (ES6+)
    HTML5
    CSS3
    OpenWeatherMap API
 
-### nstallation and Setup Instructions
+## nstallation and Setup Instructions
 To run this project locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/your-username/weather-app.git
@@ -31,12 +31,12 @@ To run this project locally, follow these steps:
 4. Open the project in a browser:
    Simply open index.html in your favorite browser to run the app.
 
-#### How to Use
+## How to Use
 1. Enter the name of the city in the input field.
 2. Click the "Search" button.
 3. The current weather data for the city will be displayed, including temperature, humidity, and wind speed.
 
-### Contributing
+## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
 
