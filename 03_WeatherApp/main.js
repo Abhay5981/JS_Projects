@@ -39,7 +39,7 @@ async function checkWeather(city) {
       else if(data.weather[0].main== 'Haze'){
         weatherIcon.src = "image/fog.png"
       }
-
+document.querySelector(".weather").style.display = "block"
 
 
   } else {
